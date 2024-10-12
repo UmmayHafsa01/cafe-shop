@@ -1,0 +1,141 @@
+.firstcover {    margin-top: 1px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 43px;
+    padding: 15px;
+    background-color: #1D3557;
+
+  }
+  @keyframes example {
+    from {background-color: rgba(240, 210, 108, 0.958);}
+    to {background-color: rgb(90, 182, 168);}
+
+    ;}
+    .sndcover{
+
+background-image: url(BAUST\ CAFE.png);
+padding: 15px;
+margin-top: -20px;
+    margin-bottom: 0px;
+    margin-left: -23px;
+    margin-right: 33px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    padding-right: 30px;
+    padding-left: 126pxfont-size: larger;
+
+background-repeat: no-repeat;
+background-size: cover;
+height: 80vh;
+border: 10px solid transparent;
+    
+
+    }
+    .sec{
+        background-color: rgb(226, 158, 226); /*  */
+        border: none;
+        color: white;
+        padding: 10px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        fon-size: 10px;
+        border-radius: 25px;
+    border: 2px solid #73AD21;
+    }
+
+
+.onebox{      background: rgba(255, 255, 255, 0.2);
+    width: 280px;
+    border: 5px solid rgb(148, 174, 200);
+    margin-top: 301px;
+    margin-bottom: 128px;
+    margin-left: 483px;
+    margin-right: 72px;
+    padding-top: 68px;
+    padding-bottom: 50px;
+    padding-right: 25px;
+    padding-left: 141px;
+    backdrop-filter: blur(6px);
+    border-radius: 25px;
+
+    }
+.Home{
+    color: rgb(85, 125, 134);
+    background-color: white;
+    width: 113px;
+    border: 5px solid rgb(40, 240, 147);
+    padding: 9px 42px 9px 42px;
+    margin: 42px 104px 197px -73px;
+    border-radius: 30px;
+}
+
+.contact{color: rgb(85, 125, 134);
+    padding: 9px 42px 9px 42px;
+    border-radius: 25px;background-color: white;
+    width: 100px;
+    border: 5px solid rgb(40, 240, 147);
+
+    margin: -68px;}
+
+  
+.cosec{
+    background-color: rgb(242, 232, 242); 
+    background-image: url(Beige\ and\ Yellow\ Illustration\ Fast\ Food\ Menu.jpg);
+    border: none;
+    color: white;
+    padding: 10px 47px;
+    margin: 10px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 25px;
+border: 2px solid #0000008b;
+
+}
+
+
+
+.logo{
+    padding-left: 1197px;
+    padding-top: 195px;
+    padding-bottom: 19px;
+    padding-right: 10px;
+    margin: -185px 28px;
+}
+
+.loginand{       padding-left: 552px;
+    padding-top: 23px;
+    padding-bottom: 0px;
+    padding-right: 22px;
+    margin: 10px -523px; 
+    color: rgb(238, 230, 230);
+}
+ 
+      
+.price{  color: grey;
+    font-size: 22px;}
+      
+    .card button {
+        border: none;
+        outline: 0;
+        padding: 12px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 25%;
+        font-size: 18px;}
+     .last{background-image: url("Beige\ and\ Yellow\ Illustration\ Fast\ Food\ Menu.jpg");
+        height: 100%; 
+
+        /* Center and scale the image nicely */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+
+
+
+    
